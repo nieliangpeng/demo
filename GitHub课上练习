@@ -7,7 +7,7 @@ new gist          新建一个依据
 new organization   新建一个组织
 
 如何能将仓库中的html文件直接解析成页面？
-code 视图
+settings ->GitHub Pages->master branch ->save;
 
 如何删除仓库
 settings 里头有删除delete键
