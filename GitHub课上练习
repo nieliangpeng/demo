@@ -3,7 +3,7 @@ Github问题集（2）
 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？
 new repository   新建一个仓库
 import reository  导入一个仓库
-new gist          新建一个依据
+new gist          新建一个代码片段
 new organization   新建一个组织
 
 如何能将仓库中的html文件直接解析成页面？
@@ -28,11 +28,10 @@ git config --global user.name " "
 git config --global user.email " "
 
 命令行换行方式
-j上一行
-k下一行
+\
 
 命令行终结方式
-q
+ctrl+c
 
 使用命令行比GUI方式有何优势
 一次性可以提交多个编辑.....（批处理）
