@@ -13,23 +13,23 @@
 + settings 里头有删除delete键
 
 ## Bash是什么操作系统的命令  
-+　Linux
++ Linux
 
 ## Pwd是什么命令   :
-+　打印当前工作目录
++ 打印当前工作目录
 
 ## Cd是什么命令   ：
 + 改变目录
 
 ## Echo是什么命令  ：
-+　打印
++ 打印
 
 ## 配置git用户名的命令  ：
 + git config --global user.name " "
 
 
 ##　配置邮箱的命令
-+　git config --global user.email " "
++ git config --global user.email " "
 
 ## 命令行换行方式
 + \
